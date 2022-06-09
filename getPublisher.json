@@ -1,0 +1,20 @@
+{
+"id": 1,
+"name": "3 Sons",
+"about": "A 3SONS acredita que a música transforma e é capaz de construir histórias! Com a missão de conduzir e oportunizar o artista, explorando ao máximo o seu potencial para que ele obtenha êxito em sua carreira e conquiste o lugar de destaque que almeja, a 3SONS oferece uma estratégia personalizada para cada um, de um modo moderno e criativo. A ideia é conectar o conteúdo à plataforma perfeita, utilizando marketing e música. Idealizada pelos “SONS” de Eliane Rosa, Lorrayne Rosa e Raquel Carelli, o time acumula mais de 20 anos de experiência nas diversas áreas envolvidas no processo de formação e disseminação de música.",
+"webSite": "3sons.com.br",
+"profilePic": "https://3sons.com.br/wp-content/uploads/2021/11/LOGO-ROSA-2.png",
+"coverPic": "https://yt3.ggpht.com/QM5aPD0NLQ7FK3VOgM4p4dX32aJ3QRUY_9DbiAhTwauwwee913JadpMBA8udz1pBQyfI9CxCnQ=w2120",
+"mediaSpotify": "https://3sons.com.br/#spotify",
+"mediaInstagram": "https://www.instagram.com/3sonsoficial/",
+"mediaFacebook": "https://www.facebook.com/3sonsoficial/",
+"mediaYoutube": "https://www.youtube.com/channel/UCOgX8Y_AEEVeXLMvMlnlmhA",
+"associacoes": [
+    {
+      "id": 1,
+      "name": "Abramus",
+      "about": "teste",
+      "coverPic": "https://uprs.go.ug/wp-content/uploads/2021/09/ABRAMUS.jpg"
+    }
+]
+}
